@@ -1,0 +1,6 @@
+[submodule "cos-demo-app"]
+	path = cos-demo-app
+	url = https://github.com/bamboonode/cos-demo-app.git
+[submodule "ibm-cos-api"]
+	path = ibm-cos-api
+	url = https://github.com/bamboonode/ibm-cos-api.git
